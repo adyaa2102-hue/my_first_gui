@@ -32,13 +32,13 @@ A simple GUI-based login portal built using Python that displays a meme after th
 2. Navigate to the project folder:
 
 
-   cd YOUR-REPOSITORY
+   cd my_first_gu
   
 
 3. Run the Python file:
 
 
-   python main.py
+   python script.py
 
 ## How It Works
 
