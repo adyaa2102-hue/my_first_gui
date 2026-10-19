@@ -65,3 +65,11 @@ The source code is available in this repository to explore and run locally. As m
 ---
 
 If you find this project interesting, feel free to explore the code.
+
+
+https://github.com/user-attachments/assets/ad25e96a-54ba-42a7-985f-2d0766ce2ada
+
+
+
+https://github.com/user-attachments/assets/2702726e-b539-4495-b66f-88b89abe0461
+
