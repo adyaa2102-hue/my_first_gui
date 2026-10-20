@@ -89,8 +89,7 @@ def login():
 show_password = tk.Button(window, command=login, text='show password', font=('Andale Mono', 12, 'bold'),
                           bg='#d7f5ff', fg='navy blue')
 show_password.pack(pady=20)
-stars = Image.open('/Users/kajalprabhakar/Downloads/_ (4).jpeg')
-stars = ImageTk.PhotoImage(stars)
+
 
 
 
